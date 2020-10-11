@@ -1,6 +1,6 @@
 # issue-explorer
 
-A simple Vue.js web application that displays issues of a given repositary. 
+A simple Vue.js web application that displays issues of a given Github repositary. 
 
 ![Home Desktop](/demo_pic/home_desktop.PNG)
 ![Issue Desktop](/demo_pic/issue_page_desktop.PNG)
