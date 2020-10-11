@@ -1,5 +1,7 @@
 # issue-explorer
 
+A simple Vue.js web application that displays issues of a given repositary. 
+
 Features Implmented:
 - Smooth transistion from home page to issue page with animation
 - Cover the case of an error fetching the results
@@ -14,7 +16,6 @@ Logic for sorting issues:
 - Issues that are closed take precedence over pull request (if case is closed and there's a pr for the repo, only the closed icon will show up in the card)
 - Issues that are open and has an active pull request will have a pull request icon show up on the card
 - Issues that are open and has no active pull request will not have any icon on the card (to indicate it is an open case)
-
 
 ## Project setup
 ```
@@ -40,3 +41,20 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Appendix: Screenshots of the app
+#### Laptop
+![Home Desktop](/Github-Issue-Displayer/demo_pic/home_desktop.PNG)
+![Issue Desktop](/Github-Issue-Displayer/demo_pic/issue_page_desktop.PNG)
+
+#### Ipad
+![Home Ipad](/Github-Issue-Displayer/demo_pic/home_ipadPro.PNG)
+![Issue Ipad](/Github-Issue-Displayer/demo_pic/issue_page_ipadPro.PNG)
+
+#### Iphone
+![Home Iphone](/Github-Issue-Displayer/demo_pic/home_iphone.PNG)
+![Issue Iphone](/Github-Issue-Displayer/demo_pic/issue_page_iphone.PNG)
+
+
+
+
