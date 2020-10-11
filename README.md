@@ -42,7 +42,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Appendix: Screenshots of the app
+Screenshots of the app
 #### Laptop
 ![Home Desktop](/demo_pic/home_desktop.PNG)
 ![Issue Desktop](/demo_pic/issue_page_desktop.PNG)
