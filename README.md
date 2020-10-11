@@ -44,16 +44,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Appendix: Screenshots of the app
 #### Laptop
-![Home Desktop](/Github-Issue-Displayer/demo_pic/home_desktop.PNG)
-![Issue Desktop](/Github-Issue-Displayer/demo_pic/issue_page_desktop.PNG)
+![Home Desktop](/demo_pic/home_desktop.PNG)
+![Issue Desktop](/demo_pic/issue_page_desktop.PNG)
 
 #### Ipad
-![Home Ipad](/Github-Issue-Displayer/demo_pic/home_ipadPro.PNG)
-![Issue Ipad](/Github-Issue-Displayer/demo_pic/issue_page_ipadPro.PNG)
+![Home Ipad](/demo_pic/home_ipadPro.PNG)
+![Issue Ipad](/demo_pic/issue_page_ipadPro.PNG)
 
 #### Iphone
-![Home Iphone](/Github-Issue-Displayer/demo_pic/home_iphone.PNG)
-![Issue Iphone](/Github-Issue-Displayer/demo_pic/issue_page_iphone.PNG)
+![Home Iphone](/demo_pic/home_iphone.PNG)
+![Issue Iphone](/demo_pic/issue_page_iphone.PNG)
 
 
 
