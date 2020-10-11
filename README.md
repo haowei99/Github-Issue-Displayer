@@ -2,6 +2,9 @@
 
 A simple Vue.js web application that displays issues of a given repositary. 
 
+![Home Desktop](/demo_pic/home_desktop.PNG)
+![Issue Desktop](/demo_pic/issue_page_desktop.PNG)
+
 Features Implmented:
 - Smooth transistion from home page to issue page with animation
 - Cover the case of an error fetching the results
@@ -42,10 +45,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-Screenshots of the app
-#### Laptop
-![Home Desktop](/demo_pic/home_desktop.PNG)
-![Issue Desktop](/demo_pic/issue_page_desktop.PNG)
+### Screenshots of the app in different screens
 
 #### Ipad
 ![Home Ipad](/demo_pic/home_ipadPro.PNG)
